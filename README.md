@@ -15,6 +15,8 @@
  - 用户模块 (处理账户信息以及权限配置)
  - 通信模块 (处理网络与心跳等通信相关的内容)
 
+![实体模型与架构设计](https://github.com/xinglongZeng/DC-config/blob/main/image/readme.jpg);
+
 
 
 ## 开放语言
